@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main(){
+	printf("Created by Carli Tamba\n");
+	printf("NIM : 23343031\n\n");		
+	//membuat variabel score
+	int score = 0;
+	
+	//membuat pointer dan referensikan dengan alamat
+	//dari variabel 
+	int *p_score = &score;
+	
+	//mengakses data variabel score dari pointer
+	printf("isi *p_score = %d\n", *p_score);
+	
+	printf("isi score awal = %d\n", score);
+	
+	//mengubah dara variabel score dari pointer
+	*p_score= 5;
+	
+	//melihat isi variabel score
+	printf("isi score setelah diubah = %d\n",score);
+	
+	return 0;
+}
