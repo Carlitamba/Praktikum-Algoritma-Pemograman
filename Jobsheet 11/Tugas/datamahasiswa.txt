@@ -1,0 +1,10 @@
+Mahasiswa ke-1
+Nama 		: Carli Tamba
+NIM 		: 23343031
+Jurusan 	: Elektronika
+Program Studi 	: Informatika
+Mahasiswa ke-2
+Nama 		: Ridho Hamdani 
+NIM 		: 230761831
+Jurusan 	: Mesin
+Program Studi 	: Mesin
