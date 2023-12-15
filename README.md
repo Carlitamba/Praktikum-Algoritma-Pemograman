@@ -32,7 +32,24 @@ Setelah saya mempelajari Jobsheet 1 ini saya mengetahui apa itu algoritma,pemrog
 </p>
 
 <p>
-  Proses Input dan Output.Input adalah data yang kita masukkan melalui perangkat keras inputan,seperti keyboard,microphone dan mouse.Proses merupakan langkah-langkah yang dijalankan program untuk menghasilkan output.Output merupakan hasil dari program yang dijalankan dan tampil di layar komputer.
+  Proses Input dan Output.Input adalah data yang kita masukkan melalui perangkat keras inputan,seperti keyboard,microphone dan mouse.Proses merupakan langkah-langkah yang dijalankan program untuk menghasilkan output.Output merupakan hasil dari program yang dijalankan dan tampil di layar komputer.Untuk menampilkan output di dalam bahasa c kita dapat menggunkaan fungsi printf dan fungsi puts.perbedaan dari kedua fungsi ini fungsi printf jika ingin menampilkan output kitaharus menggunakan format yang sesuai dengan variabel atau apa yang ingin kita tampilkan.Fungsi Input pada bahasa c.Pada bahasa c terdapat fungsi input seperti fungsi scanf,gets,fgets.
+</p>
+
+# JOBSHEET 3
+<p>
+  Setelah mempelajari Jobsheet 3 saya mengetahui tentang variabel,konstanta dan tipe data pada bahasa c.
+</p>
+
+<p>
+  Variabel adalah suatu tempat untuk menyimpan suatu nilai yang memiliki tipe data tertentu.Saat menulis nama variabel kita harus mengikuti aturan seperti tidak boleh menggunakan nama yang sudah ada di bahasa c seperti if,void dan lain lain.
+</p>
+
+<p>
+  Tipe data adalah jenis data atau nilai yang akan disimpan di dalam variabel,seperti integer,char,float,double dan lain lain.Tipe data terbagi menjadi empat kelompok,yaiut tipe data dasar,tipe data void,tipe data turunan,dan tipe data enum atau bentukan.Kita juga dapat melakukan konversi tipe data.Konversi tipe data adalah mengubah tipe data menjadi tipe data yang lain,contohnya kita dapat mengubah tipe data integer menjadi float dengan menuliskan tipe datanya di depan variabel yang tipe datanya ingin kita ubah.
+</p>
+
+<p>
+  Konstanta adalah nilai tetap,maksudnya variabel yang dideklarasikan menjadi variabel konstanta tidak dapat diubah nilainya.Dalam mendeklarasikan variabel konstanta terdapat dua cara di bahasa c,yaitu dengan menggunakan #define di awal variabel contohnya #define BERAT 10.Cara pertama ini dilakukan di luar fungsi main.Cara kedua menggunakan const di awal dan berada sebelum tipe data variabel contohnya const int berat = 10;.Cara ini bisa di tulis di luar maupun di dalam fungsi main.
 </p>
 
 
@@ -45,4 +62,14 @@ Setelah saya mempelajari Jobsheet 1 ini saya mengetahui apa itu algoritma,pemrog
 
 
 
+
+
+
+
+
+
+
+
+
+  
 
