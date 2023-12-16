@@ -1,10 +1,8 @@
 
 # Praktikum-Algoritma-Pemograman
+<img src="img/svg.png" width="100%" >
+
 # JOBSHEET 1
-
-
-
-
 <p align="justify">
 Setelah saya mempelajari Jobsheet 1 ini saya mengetahui apa itu algoritma,pemrograman,bahasa pemrograman,programmer,IDE,cara menginstal IDE dan menampilkan Hello World! meunggunakan CMD. 
 </p>
