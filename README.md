@@ -1,8 +1,10 @@
 
 # Praktikum-Algoritma-Pemograman
-<img src="img/svg.png" width="100%" >
+<hr>
 
-# JOBSHEET 1
+# JOBSHEET 1 🌊
+
+<hr>
 <p align="justify">
 Setelah saya mempelajari Jobsheet 1 ini saya mengetahui apa itu algoritma,pemrograman,bahasa pemrograman,programmer,IDE,cara menginstal IDE dan menampilkan Hello World! meunggunakan CMD. 
 </p>
@@ -23,6 +25,7 @@ Setelah saya mempelajari Jobsheet 1 ini saya mengetahui apa itu algoritma,pemrog
   Bahasa Pemograman ditulis ke dalam IDE atau Integrated Development Environment.IDE merupakan perangkat lunak untuk melakukan pemograman dalam membuat aplikasi.Karena kita menggunakan bahasa c saya memilih DevC++ dan  saya membuat program untuk mencetak "Hello World" melalui DevC++ yang akan ditampilkan memalui CMD.
 </p>
 
+<hr>
 # JOBSHEET 2
 <p align="justify">
   Setelah Saya mempelajari Jobsheet 2 saya mengetahui tentang Pemrograman Dasar C mulai dari Struktur Dasar C,Proses Input dan Output,Fungsi input,Sintaks, dan Format Specifier.
@@ -183,3 +186,4 @@ Setelah saya mempelajari Jobsheet 1 ini saya mengetahui apa itu algoritma,pemrog
 <p align="justify">
   Kita bisa menggunakan fungsi-fungsi yang terdapat di bahasa c untuk membuka atau membaca file.Kita menggunakan fungsi fopen() dengan mode yang kita inginkan,seperti mode r untuk membaca file.Kita dapat membaca isi dari suatu file dengan menggunakan fungsi fgets() dan untuk menampilkan isi dari file yang memiliki isi lebih dari 1 baris kita dapat melakukan perulangan.Kita juga dapat mengisi isi file menggunakan fungsi fputs() dan kita dapat menggunakan perulangan untuk mengisi file tersebut lebih dari 1 baris.
 </p>
+<img src="img/wave.png" width="100%" >
